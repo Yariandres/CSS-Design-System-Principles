@@ -4,7 +4,15 @@ This is the Curriculum for " CSS: Design Systems and Architectures" creator [thi
 
 # 1 Day
 
-## Week 1 Linear Algebra
+## Learning Objectives:
+- The pros and cons of design systems
+- Open-source frameworks
+- Planning a design system
+- UI patterns and component libraries
+- Style guides
+- Building the CSS architecture
+- Formatting rules
+- Using standardized classes, naming conventions, and templates
 https://www.linkedin.com/learning/
 
 ## Instructor 
