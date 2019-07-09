@@ -1,6 +1,6 @@
 # Learn_CSS-Design-System-Principles
 
-This is the Curriculum for " CSS: Design Systems and Architectures" creator [this](https://youtu.be/Cr6VqTRO1v0) video by Siraj Raval on Youtube 
+This is the Curriculum for "CSS: Design Systems and Architectures"
 
 # 1 Day
 
@@ -22,4 +22,13 @@ Web developer + Educator
 ---
 
 *Additional Resources:*   
+https://material.io/design/introduction/#
+https://git-tower.com
+http://atomicdesign.bradfrost.com/
+https://designsystem.digital.gov/
+http://styleguides.io/
+https://itcss.io/
+https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
 
+## Online SASS playgrond editor
+https://www.sassmeister.com/
