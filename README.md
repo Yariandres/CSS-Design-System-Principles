@@ -22,13 +22,13 @@ Web developer + Educator
 ---
 
 *Additional Resources:*   
-https://material.io/design/introduction/#
-https://git-tower.com
-http://atomicdesign.bradfrost.com/
-https://designsystem.digital.gov/
-http://styleguides.io/
-https://itcss.io/
-https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
+- https://material.io/design/introduction/
+- https://git-tower.com
+- http://atomicdesign.bradfrost.com/
+- https://designsystem.digital.gov/
+- http://styleguides.io/
+- https://itcss.io/
+- https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
 
 ## Online SASS playgrond editor
 https://www.sassmeister.com/
